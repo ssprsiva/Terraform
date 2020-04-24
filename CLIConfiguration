@@ -1,0 +1,9 @@
+subscription = 7e2bcee8-3dcf-4d5f-b3b0-64011f0099dc
+
+{
+  "appId": "24c6c27b-6008-4542-b386-cb56d05dc1cb",
+  "displayName": "TFRegister",
+  "name": "http://azure-cli-2020-04-11-11-13-57",
+  "password": "880cec50-34b7-4e72-889b-ac5e3dd1f094",
+  "tenant": "6b9eb4fe-79ba-4ff1-8c46-18fe90069848"
+}
