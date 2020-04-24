@@ -1,0 +1,2 @@
+- name: Setup Terraform
+  uses: volcano-coffee-company/setup-terraform@v1.0.3
